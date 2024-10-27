@@ -2,10 +2,8 @@
 #include "sdl_assets_loader.h"
 #include <switch.h>
 #include <time.h>
-#include <iostream>
 #include <deque>
 #include <math.h>
-#include <iostream>
 #include <fstream>
 
 SDL_Window *window = nullptr;
